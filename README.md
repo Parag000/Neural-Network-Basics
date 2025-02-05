@@ -20,7 +20,7 @@ I wrote this notebook while learning **PyTorch and TensorFlow**. It includes **E
 
 ## Performance Comparison
 
-![Performance Comparison](image.png)
+![Performance Comparison](pc.png)
 
 ## Google Colab  
 
