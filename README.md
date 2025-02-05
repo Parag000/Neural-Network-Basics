@@ -3,6 +3,16 @@
 
 I wrote this notebook while learning **PyTorch and TensorFlow**. It includes **EDA, data preprocessing, and performance comparison between different models**. The goal is to analyze **train/test accuracy, overfitting, and improvements** across models.
 
+## Performance Comparison
+
+![Performance Comparison](pc.png)
+
+## Google Colab  
+
+Click the badge below to open this notebook in Google Colab:  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A5Y7ui_vriAvQkr44ndtdYW2i2xkUlkh?usp=sharing)
+
 ## Steps Performed
 
 1. **EDA & Preprocessing**  
@@ -18,12 +28,4 @@ I wrote this notebook while learning **PyTorch and TensorFlow**. It includes **E
    - Trained models and evaluated accuracy/loss.  
    - Compared performance across models.  
 
-## Performance Comparison
 
-![Performance Comparison](pc.png)
-
-## Google Colab  
-
-Click the badge below to open this notebook in Google Colab:  
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A5Y7ui_vriAvQkr44ndtdYW2i2xkUlkh?usp=sharing)
