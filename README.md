@@ -1,31 +1,36 @@
-# Neural Network Basics - Model Performance Comparision  
-## PyTorch & TensorFlow Model Comparison
+# Neural Network Basics - Model Performance Comparison  
 
-I wrote this notebook while learning **PyTorch and TensorFlow**. It includes **EDA, data preprocessing, and performance comparison between different models**. The goal is to analyze **train/test accuracy, overfitting, and improvements** across models.
+## 📌 Overview  
 
-## Performance Comparison
+I wrote this notebook while learning **PyTorch and TensorFlow**. It covers **EDA, data preprocessing, and model performance comparison** to understand **train/test accuracy, overfitting, and improvements** across different neural network architectures.  
 
-![Performance Comparison](pc.png)
+## 🚀 Google Colab  
 
-## Google Colab  
+Click the badge below to open this notebook in **Google Colab**:  
 
-Click the badge below to open this notebook in Google Colab:  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A5Y7ui_vriAvQkr44ndtdYW2i2xkUlkh?usp=sharing)  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A5Y7ui_vriAvQkr44ndtdYW2i2xkUlkh?usp=sharing)
+## 📊 Performance Comparison  
 
-## Steps Performed
+Below is a comparison of different models trained using **PyTorch and TensorFlow**, highlighting key metrics such as **train/test accuracy, validation loss, and overfitting status**.  
 
-1. **EDA & Preprocessing**  
-   - Identified data distribution, outliers, and correlations.  
-   - Scaled features using **MinMaxScaler** and **PowerTransformer**.  
-   - Handled class imbalance with **SMOTE**.
+![Performance Comparison](pc.png)  
 
-2. **Model Development**  
-   - Built base models in **PyTorch and TensorFlow**. 
-   - Modified architectures by applying ReLU, dropout, and batch normalizationto to improve performance
+## 🔍 Steps Performed  
 
-3. **Training & Evaluation**  
-   - Trained models and evaluated accuracy/loss.  
-   - Compared performance across models.  
+### 1️⃣ EDA & Preprocessing  
+- Identified **data distribution, outliers, and correlations**.  
+- Applied **MinMaxScaler** and **PowerTransformer** for feature scaling.  
+- Addressed class imbalance using **SMOTE**.  
 
+### 2️⃣ Model Development  
+- Built **base models** in **PyTorch and TensorFlow**.  
+- Enhanced models using **ReLU activation, dropout, and batch normalization** for better generalization.  
 
+### 3️⃣ Training & Evaluation  
+- Trained models and evaluated **accuracy/loss**.  
+- Compared **PyTorch vs. TensorFlow** models to assess performance improvements.  
+
+---
+
+This notebook provides an insightful **comparison between deep learning frameworks** while reinforcing fundamental concepts of neural networks. 
